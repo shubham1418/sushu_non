@@ -1,1 +1,2 @@
-hey, there i am using git for learning purpose
+hey, there i am using git for learning purpose.
+lets go
